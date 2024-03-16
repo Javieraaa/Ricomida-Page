@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Cabin", sans-serif;
+}
+
+.navbg {
+    background-color: #373A3C;
+}
+
+.navbar-brand {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    color: white;
+    font-style: normal;
+    font-size: 37px;
+    margin-left: 11%;
+}
+
+.navmlinks {
+    padding-right: 11%;
+}
+
+.nav-link {
+    color: white;
+}
+
+h1,
+h2,
+.news {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.carouselDark {
+    padding: 20px;
+}
+
+.cardbox {
+    padding: 0;
+    margin: 10px 7px;
+}
+
+.cardtitulo {
+    font-size: 23;
+    font-weight: 700;
+}
+
+.pcard {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.newslogo {
+    color: white;
+    font-family: "Lobster", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+}
+
+.news {
+    vertical-align: bottom;
+}
+
+.ttblack {
+    background-color: black;
+    color: white;
+}
+
+.circulitos {
+    height: 15px;
+    width: 15px;
+}
+
+.button-rounded {
+    border-radius: 50%;
+}
+
+.carousel-indicators {
+    position: relative !important;
+}
+
+.carousel-indicators [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    background-color: #373A3C !important;
+    vertical-align: top;
+
+
+}
+
+.ingredientes,
+.preparacion {
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+}
+
+.hidden {
+    display: none;
+}
+
+.text-red {
+    background-color: #DC3545;
+    padding: 60px;
+    color: white;
+    text-align: center;
+}
+
+.footer-text {
+    background-color: #373A3C;
+    color: white;
+    text-align: center;
+    font-family: "Lobster", sans-serif;
+    font-weight: 300;
+    font-size: 37px;
+    padding: 10px 0 20px 0;
+}
